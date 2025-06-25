@@ -1,3 +1,7 @@
+#  Redux Api Integration
+    <h2>Live Project</h2>
+
+This project was React Bootstrap, Redux and fetch(API)[Varcel] [https://redux-api-xi.vercel.app/]
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
